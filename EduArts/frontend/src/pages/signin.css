@@ -1,0 +1,46 @@
+.signin-page {
+  background: linear-gradient(135deg, #f4f1f6, #f1f2f4);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signin-page .auth-box {
+  background: #ffffff;
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
+  width: 350px;
+  text-align: center;
+}
+
+.signin-page .auth-box h2 {
+  margin-bottom: 30px;
+  color: #333333;
+}
+
+.signin-page .auth-box input {
+  width: 100%;
+  padding: 12px 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.signin-page .auth-btn {
+  width: 100%;
+  padding: 12px 15px;
+  background: #2575fc;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.signin-page .auth-btn:hover {
+  background: #6a11cb;
+}
