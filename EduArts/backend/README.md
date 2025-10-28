@@ -1,4 +1,4 @@
-# EduBridgeX Backend (Minimal Scaffold)
+# EduArts Backend (Minimal Scaffold)
 
 ## Setup
 1. Install dependencies: `npm install`
